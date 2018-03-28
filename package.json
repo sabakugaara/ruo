@@ -47,7 +47,7 @@
     "superagent-defaults": "^0.1.14",
     "supertest": "^2.0.1",
     "uppercamelcase": "^1.1.0",
-    "waterline": "^0.11.6",
+    "waterline": "^0.13.1",
     "winston": "^2.2.0",
     "winston-common-sentry": "^0.1.1",
     "winston-daily-rotate-file": "^1.2.0",
