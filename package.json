@@ -24,7 +24,7 @@
     "express-session": "^1.15.0",
     "glob": "^7.0.5",
     "ioredis": "^2.5.0",
-    "js-yaml": "^3.6.1",
+    "js-yaml": "^3.13.1",
     "json-refs": "^2.1.6",
     "lodash": "^4.17.11",
     "mcfg": "^0.1.0",
