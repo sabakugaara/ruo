@@ -22,7 +22,7 @@
     "debug": "^2.2.0",
     "express": "^4.14.0",
     "express-session": "^1.15.0",
-    "glob": "^7.0.5",
+    "glob": "^9.0.0",
     "ioredis": "^2.5.0",
     "js-yaml": "^3.6.1",
     "json-refs": "^2.1.6",
