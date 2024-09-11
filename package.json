@@ -30,7 +30,7 @@
     "mcfg": "^0.1.0",
     "mock-req": "^0.2.0",
     "moder": "^1.3.2",
-    "path-to-regexp": "^1.6.0",
+    "path-to-regexp": "^8.0.0",
     "rc": "^1.1.6",
     "router": "^1.1.4",
     "ruo-swagger-parser": "0.2.0",
